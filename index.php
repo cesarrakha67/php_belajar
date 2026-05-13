@@ -6,7 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>yo wassup twin</h1>
-    
+    <?php
+    echo "Yo wssup my twin, how r u doin? <br>";
+    ?>
+    <?php
+    echo "Ini adalah <br> syntaks php <br> pertama saya <br>";
+    ?>
 </body>
 </html>

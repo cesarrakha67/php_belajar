@@ -12,5 +12,16 @@
     <?php
     echo "Ini adalah <br> syntaks php <br> pertama saya <br>";
     ?>
+
+    <?php
+    //luas persegi panjang
+    $panjang = 10;
+    $lebar = 5;
+    $luas = $panjang * $lebar;
+    
+    echo "Luas persegi panjang adalah $luas"; //double quote
+    echo "<br>";
+    echo 'Luas persegi panjang adalah $luas'; //single quote
+    ?>
 </body>
 </html>
